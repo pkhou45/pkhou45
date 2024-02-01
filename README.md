@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is PK, and I am a student at NTU Medical School.
+My name is PK, and I am a student at NTU Medical School.\n
 With hopes of getting into neuroscience research, I am learning coding.
 Cheers
 
